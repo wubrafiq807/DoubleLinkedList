@@ -4,13 +4,13 @@
     <code>
     <h1>Feature list </h>
 	    <ol>
-	     <li>create</li>
+	     <li>Create</li>
 	     <li>Display</li>
 	     <li>Insert at beginning</li>
 	     <li>Insert at End</li>
 	     <li>Insert at given position</li>
-	      <li>Insert after given position</li>             
-	     <li>beginning</li>
+	     <li>Insert after given position</li>             
+	     <li>Beginning</li>
 	     <li>Delete from End</li>
 	     <li>Delete from given position</li>
 	     <li>Reverse</li>
